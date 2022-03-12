@@ -1,7 +1,6 @@
-
-`npm install
+````
+npm install
 
 sudo npm i -g parcel-bundler
 
-parcel index.html`
-
+parcel index.html
