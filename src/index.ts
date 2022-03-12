@@ -3,7 +3,7 @@
 
  import {Map} from "./Map";
 
-new Map()
+new Map('map')
 
 
 
